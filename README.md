@@ -35,4 +35,4 @@ Copyright © Lapius7bot.tech. All rights reserved.
 - **Lapius** - [プロフィール](https://kmr1.org/lit.link_Lapius)
 
 ## お問い合わせ
-質問やフィードバックがある場合は、[issue](https://github.com/Lapius7/Aviutl-Valorant_CC/issue)を作成するか、[Twitter](https://twitter.com/Lapius7)のDM又は[メールアドレス](contact-us@lapius7bot.tech)に直接お問い合わせください。
+質問やフィードバックがある場合は、[issue](https://github.com/Lapius7/Aviutl-Valorant_CC/issues)を作成するか、[Twitter](https://twitter.com/Lapius7)のDM又は[メールアドレス](contact-us@lapius7bot.tech)に直接お問い合わせください。
